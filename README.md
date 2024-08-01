@@ -48,4 +48,4 @@ https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset
 
 ## Dashboard Snapshot
 ![dashboard 1](https://github.com/user-attachments/assets/da6087cf-680c-475d-b722-46c40066050f)
-![dashboard 2](https://github.com/user-attachments/assets/ea5f4fc8-f3f7-4ba6-b38d-25c16c12566f)  
+![dashboard 2](https://github.com/user-attachments/assets/a0af6c68-6a45-4eeb-9238-c80387702690)
